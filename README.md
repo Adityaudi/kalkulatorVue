@@ -7,7 +7,7 @@
   <img src="https://github.com/Adityaudi/kalkulatorVue/blob/master/src/assets/main.png">
 </p>
 
-## Kalkulator apps bisa di kunjungi [disini](https://google.com)
+## Kalkulator apps bisa di kunjungi [disini](https://kalkulator.adityaudi.my.id/)
 
 ## Project setup
 ```
